@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service Definition for Opex Budget MII'
+define service Z_OPEX_BUDGET_MII {
+  expose Z_C_OPEX_BUDGET_MII;
+}
